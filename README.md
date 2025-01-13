@@ -1,3 +1,11 @@
+<h1>Organo</h1>
+
+<img src="./assets/portfolio.png" alt="projeto_portifólio">
+<a href="https://organo-kappa-hazel.vercel.app/" target="_blank">Link da página do projeto funcionando deployada no Vercel</a>
+
+<h2>Sobre</h2>
+<p>Projeto em React para organização de pessoas em cargos e equipes, particularmente voltado para equipes de TI nesse projeto</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
