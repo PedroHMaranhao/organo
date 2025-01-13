@@ -1,10 +1,16 @@
 <h1>Organo</h1>
 
-<img src="./assets/portfolio.png" alt="projeto_portifólio">
+<img src="public/imagens/Organo_preview.png" alt="projeto_organo">
 <a href="https://organo-kappa-hazel.vercel.app/" target="_blank">Link da página do projeto funcionando deployada no Vercel</a>
 
 <h2>Sobre</h2>
 <p>Projeto em React para organização de pessoas em cargos e equipes, particularmente voltado para equipes de TI nesse projeto</p>
+
+<h2>Detalhes</h2>
+<ul>
+<li>O projeto permite a adição de pessoas, cargos e fotos a equipes(times) predefinidos</li>
+<li>Ao atualizar a pagina perde as modificações do usuário por não ter uma database, uma funcionalidade que deve ser adicionada posteriormente</li>
+</ul>
 
 # Getting Started with Create React App
 
